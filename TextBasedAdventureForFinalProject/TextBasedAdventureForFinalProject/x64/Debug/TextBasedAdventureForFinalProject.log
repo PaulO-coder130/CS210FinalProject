@@ -1,0 +1,5 @@
+﻿  TextBasedAdventureForFinalProject.cpp
+C:\Users\golde\source\repos\TextBasedAdventureForFinalProject\TextBasedAdventureForFinalProject\TextBasedAdventureForFinalProject.cpp(274,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\golde\source\repos\TextBasedAdventureForFinalProject\TextBasedAdventureForFinalProject\TextBasedAdventureForFinalProject.cpp(284,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\golde\source\repos\TextBasedAdventureForFinalProject\TextBasedAdventureForFinalProject\TextBasedAdventureForFinalProject.cpp(344,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TextBasedAdventureForFinalProject.vcxproj -> C:\Users\golde\source\repos\TextBasedAdventureForFinalProject\x64\Debug\TextBasedAdventureForFinalProject.exe
